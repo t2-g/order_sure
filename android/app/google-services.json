@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327196492204",
+    "project_id": "ordersure-6e14c",
+    "storage_bucket": "ordersure-6e14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327196492204:android:210654619e76509eeb7a09",
+        "android_client_info": {
+          "package_name": "com.tiyaJain.order_sure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327196492204-9la86h19tjtsquru5ml14q7no2sohc9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTtWHRRWRYpEnJ7QEnk5kallNZJPg9GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327196492204-9la86h19tjtsquru5ml14q7no2sohc9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
